@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, UploadFile, Body
+from fastapi import FastAPI, HTTPException, Body
 import uvicorn
 from calc import Calc
 
